@@ -29,6 +29,7 @@ A highly motivated and driven Full Stack Web Developer student at Business colle
 ### Education:
 * Bachelor's in "Control in Technical Systems" at <a href="https://www.sut.ru/eng">SPbSUT</a>
 * "Full Stack Web Development" at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/">Business College Helsinki</a>
+* <a href="https://fullstackopen.com/en/">Full Stack Open</a>
 
 ---
 
