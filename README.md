@@ -26,6 +26,10 @@ A highly motivated and driven Full Stack Web Developer student at Business colle
 ![UE4](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
 
+### Education:
+* Bachelor's in "Control in Technical Systems" at <a href="https://www.sut.ru/eng">SPbSUT</a>
+* "Full Stack Web Development" at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/">Business College Helsinki</a>
+
 ---
 
 <p align="center">
