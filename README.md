@@ -22,15 +22,17 @@ A highly motivated and driven Full Stack Web Developer student at Business colle
 ![UE4](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
 
+---
+
 <p align="center">
     <b>Looking for a an intern or a Junior developer?
         <a href="https://www.linkedin.com/in/vladislav-muondo-87021a194/">Let's connect and talk!</a>
+        <a href="mailto:muondove@gmail.com">
+            <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+        </a>
     </b>
 </p>
 
----
-<p align="center">
-    <a href="mailto:muondove@gmail.com">
-        <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-    </a>
-</p>
+
+
+
