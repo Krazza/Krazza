@@ -30,6 +30,6 @@ A highly motivated and driven Full Stack Web Developer student at Business colle
 
 ---
 
-<a href="mailto:muondove@gmail.com">
+<a href="mailto:muondove@gmail.com" align="center">
     <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
