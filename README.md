@@ -1,6 +1,10 @@
 ## Hello there, my name is Vladislav Emerson Muondo 👋
 A highly motivated and driven Full Stack Web Developer student at Business college Helsinki with knowledge of JavaScript, Node.js, TypeScript, React, and Redux. Previous background in commercial game development as a Game Designer using Unreal Engine (Blueprints) and Unity (C#). Always interested in building fun, informative, and beautiful applications.
 
+### Projects:
+
+* <a href="https://github.com/Krazza/Leaderboards_VAL">Valorant leaderboards</a> (x.08.2023)
+
 ### Technologies:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
