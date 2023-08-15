@@ -27,12 +27,12 @@ A highly motivated and driven Full Stack Web Developer student at Business colle
 <p align="center">
     <b>Looking for a an intern or a Junior developer?
         <a href="https://www.linkedin.com/in/vladislav-muondo-87021a194/">Let's connect and talk!</a>
-        <a href="mailto:muondove@gmail.com">
-            <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-        </a>
     </b>
 </p>
 
+### Contact me: 
 
-
+<a href="mailto:muondove@gmail.com">
+    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+</a>
 
