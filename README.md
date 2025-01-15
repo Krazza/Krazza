@@ -3,6 +3,7 @@ A highly motivated and driven Full Stack Web Developer student at Business colle
 
 ### Projects:
 
+* <a href="https://github.com/Krazza/DungeonCrawler">Dungeon Crawler (Unreal Engine, C++)</a> (Work in progress)
 * <a href="https://github.com/Krazza/Leaderboards_VAL">Valorant leaderboards</a> (x.08.2023)
 * <a href="https://github.com/Krazza/Demo_task"> Demo assignment</a> (team build tool) (x.04.2023)
 
