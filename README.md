@@ -36,7 +36,7 @@ A highly motivated and driven Full Stack Web Developer student at Business colle
 ---
 
 <p align="center">
-    <b>Looking for a an intern or a Junior developer?
+    <b>Hey there!
         <a href="https://www.linkedin.com/in/vladislav-muondo-87021a194/">Let's connect and talk!</a>
     </b>
 </p>
